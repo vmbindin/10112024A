@@ -31,4 +31,4 @@ Simple math console apps utilizing System.CommandLine
 
 ## references
 [web-commandline](https://learn.microsoft.com/en-us/dotnet/standard/commandline/)\
-[git-commandline](https://github.com/dotnet/docs/blob/main/docs/standard/commandline/get-started-tutorial.md)\
+[git-commandline](https://github.com/dotnet/docs/blob/main/docs/standard/commandline/get-started-tutorial.md)
